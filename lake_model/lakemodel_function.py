@@ -1,8 +1,3 @@
-'''
-Created on May 2, 2017
-
-@author: jhkwakkel
-'''
 from __future__ import division
 
 import math
